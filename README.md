@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpadas599&label=Profile%20views&color=0e75b6&style=flat" alt="kalpadas599" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript & Flutter**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kalpa-das-08a98b1b1/](https://www.linkedin.com/in/kalpa-das-08a98b1b1/)
+- 📝 I actively engage with [https://www.linkedin.com/in/kalpa-das-08a98b1b1/](https://www.linkedin.com/in/kalpa-das-08a98b1b1/)
 
-- 💬 Ask me about **Python, JavaScript, C, Firebase, Fast API**
+- 💬 Ask me about **Python, JavaScript, C, Firebase, Flutter, Fast API**
 
 - 📫 How to reach me **kalpadas599@gmail.com**
 
