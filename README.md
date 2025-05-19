@@ -1,7 +1,9 @@
-![logo](https://github.com/kalpadas599/kalpadas599/blob/main/Blue%20Modern%20Photo%20Technology%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Kalpa Das</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<div align="center">
+  <img src="https://github.com/kalpadas599/kalpadas599/blob/main/Blue%20Modern%20Photo%20Technology%20Banner.png" alt="logo"/>
+  <h1>Hi 👋, I'm Kalpa Das</h1>
+  <h3>A passionate full-stack developer from India</h3>
+</div>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
