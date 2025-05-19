@@ -114,9 +114,16 @@
 </p>
 
 
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpadas599&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpadas599&show_icons=true&locale=en&layout=compact" alt="kalpadas599" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalpadas599&show_icons=true&locale=en&theme=gruvbox" alt="Kalpa's GitHub stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpadas599&show_icons=true&locale=en" alt="kalpadas599" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpadas599&theme=gruvbox" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpadas599&" alt="kalpadas599" /></p>
