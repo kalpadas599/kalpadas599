@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=kalpadas599&label=Profile%20views&color=0e75b6&style=flat" alt="kalpadas599" />
 </p>
 
-- 🌱 I’m currently diving deeper into **JavaScript, Azure Cloud, and AI for real-time data streaming**
+- 🌱 I’m currently diving deeper into **Java, Azure Cloud, and AI**
 - 📝 Find me on [LinkedIn](https://www.linkedin.com/in/kalpadas)
 - 💬 I love talking about **Python, Java, C, Firebase, and SQL**
 - 📫 Reach me at: [kalpadas599@gmail.com](mailto:kalpadas599@gmail.com)
