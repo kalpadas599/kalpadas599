@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img src="https://github.com/kalpadas599/kalpadas599/blob/main/Blue%20Modern%20Photo%20Technology%20Banner.png" alt="logo"/>
   <h1>Hi 👋, I'm Kalpa Das</h1>
   <h3>A passionate full-stack developer from India</h3>
 </div>
