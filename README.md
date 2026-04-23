@@ -10,9 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=kalpadas599&label=Profile%20views&color=0e75b6&style=flat" alt="kalpadas599" />
 </p>
 
-- 🌱 I’m currently diving deeper into **Java, Azure Cloud, and AI**
+- 🔭 Working on **Full Stack + AI-powered applications**
+- 🌱 I’m currently diving deeper into **Java, Kubernetes, and System Design**
 - 📝 Find me on [LinkedIn](https://www.linkedin.com/in/kalpadas)
-- 💬 I love talking about **Python, Java, C, Firebase, and SQL**
+- 💬 I love talking about **React, Java, Python, SQL, APIs**
 - 📫 Reach me at: [kalpadas599@gmail.com](mailto:kalpadas599@gmail.com)
 - ⚡ Fun fact: **I automate everything—even my snack breaks 😄**
 
